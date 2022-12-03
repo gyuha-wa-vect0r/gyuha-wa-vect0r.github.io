@@ -1,2 +1,3 @@
-# KongsuniComputer.github.io
-어이 어서오시게나~
+# gyuha-wa-vect0r.github.io
+
+닉네임 변환으로 새로운 Repo로 이사왔습니당...
