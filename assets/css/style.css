@@ -26,10 +26,10 @@ body::before {
   background: rgba(34, 34, 34, 0.8);
 }
 
-@media (min-width: 992px) {
+@media (min-width: 1920px) {
   body {
     background-attachment: fixed;
-    padding-left: 160px;
+    padding-left: 200px;
   }
 }
 
