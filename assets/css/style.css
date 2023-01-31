@@ -23,7 +23,7 @@ body::before {
 @media (min-width: 1920px) {
   body {
     background-attachment: fixed;
-    padding-left: 200px;
+    
   }
 }
 
